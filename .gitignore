@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+movies.db
+*.db
+.env
+.venv/
+.local/
+.git/
+replit.md
+.replit
